@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/Altcademy_MF_gh-pages/",
+  base: "/ALTCADEMY_MF_GH-PAGES/",
 });
